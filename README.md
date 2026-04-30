@@ -8,24 +8,6 @@ The system allows:
 - Tracking real-time locations
 - Displaying locations on a map
 - Detecting students who are too far from their teacher
-
----
-
-## Project Structure
-
-project/
-|
-|---backend/ # FastAPI server
-|
-|---frontend/ # UI (HTML, CSS, JavaScript)
-|
-|---README.md
-|
-|---screenshots
-|
-|---.gitignore
-
-
 ---
 
 ## How to Run
@@ -62,7 +44,6 @@ frontend/index.html
 - Fill in details
 - Click Register
 
-📸 Screenshot:  
 ![Register](screenshots/register.png)
 
 ---
@@ -73,7 +54,7 @@ frontend/index.html
 
 Only verified teachers can access data
 
-📸 Screenshot:  
+
 ![Login](screenshots/login.png)
 
 ---
@@ -86,7 +67,7 @@ After login:
 - View students in class
 - Detect far students
 
-📸 Screenshot:  
+ 
 ![Actions](screenshots/actions.png)
 
 ---
@@ -97,7 +78,7 @@ After login:
 - Enter coordinates (Degrees / Minutes / Seconds)
 - Click Update
 
-📸 Screenshot:  
+ 
 ![Location](screenshots/location.png)
 
 ---
@@ -109,7 +90,7 @@ After login:
   - Red → far student (>3 km)
   - Blue → teacher
 
-📸 Screenshot:  
+
 ![Map](screenshots/map.png)
 
 ---
@@ -118,7 +99,6 @@ After login:
 - Click "Far Students"
 - System highlights students farther than 3 km
 
-📸 Screenshot:  
 ![Far Students](screenshots/far.png)
 
 ---
