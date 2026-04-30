@@ -1,15 +1,5 @@
 # School Trip Management System
 
-## Overview
-This project was developed to assist teachers in managing a school trip for 6th-grade students.
-
-The system allows:
-- Managing students and teachers
-- Tracking real-time locations
-- Displaying locations on a map
-- Detecting students who are too far from their teacher
----
-
 ## How to Run
 
 ### 1. Backend
