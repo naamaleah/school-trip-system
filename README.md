@@ -153,18 +153,9 @@ No installation required
 
 ---
 
-## Notes
 
-- Only teachers can access system data after verification
-- Each location update overwrites the previous one
-- Distance is calculated using the Haversine formula
-- The system focuses on clarity and functionality
 
----
-
-## Summary
-
-Info for tutorial:
+## Info for tutorial:
 id="111111111", first_name="Rivka", last_name="Cohen"
 id="222222222", first_name="Leah", last_name="Levi"
 id="333333333", first_name="Miriam", last_name="Mizrahi"
