@@ -295,8 +295,6 @@ def get_teacher_current_location(
 
     return teacher_location
 
-@app.post("/seed")
-def seed_data(db: Session = Depends(get_db)):
     teachers = [
         models.Teacher(id="111111111", first_name="Rivka", last_name="Cohen", class_name="ו1"),
         models.Teacher(id="222222222", first_name="Leah", last_name="Levi", class_name="ו2"),
