@@ -119,8 +119,6 @@ No installation required
 
 ### Database
 - SQLite
-- Created automatically on first run
-
 ---
 
 
