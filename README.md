@@ -164,10 +164,7 @@ No installation required
 
 ## Summary
 
-This project demonstrates:
-- Client-server architecture
-- REST API development
-- Database integration
-- Real-time data handling
-- Map-based visualization
-- Basic geospatial calculations
+Info for tutorial:
+id="111111111", first_name="Rivka", last_name="Cohen"
+id="222222222", first_name="Leah", last_name="Levi"
+id="333333333", first_name="Miriam", last_name="Mizrahi"
